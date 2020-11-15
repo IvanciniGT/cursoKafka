@@ -4,9 +4,9 @@ Profesor: https://www.linkedin.com/in/ivan-osuna-ayuste/
 ## PRACTICA 2: Creación y uso de un TOPIC
 
 En esta práctica vamos a:
-Crear un topic
-Mandar contenido al topic
-Leer contenido del topic
+1. Crear un topic
+2. Mandar contenido al topic
+3. Leer contenido del topic
 
 Durante esta práctica, se trabajará en una terminal, dentro de la carpeta
 de instalación de kafka. En nuestro caso será:

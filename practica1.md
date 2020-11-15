@@ -3,7 +3,11 @@ Profesor: https://www.linkedin.com/in/ivan-osuna-ayuste/
 
 ## PRACTICA 1: Descargar e Instalar Kafka
 
-En esta práctica vamos a descargar, instalar y para el entorno de Apache Kafka.
+En esta práctica vamos a:
+* Descargar Apache Kafka
+* Instalar Apache Kafka
+* Iniciar y parar Apache Kafka.
+
 Durante esta práctica, se trabajará en una terminal, dentro de la carpeta:
 **/home/ubuntu/environment**.
 Para acceder a la misma se puede ejecutar el comando:
